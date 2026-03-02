@@ -1,1 +1,1 @@
-# Workshop2.OPP.-Inheritance
+# Workshop2.OPP.Inheritance
