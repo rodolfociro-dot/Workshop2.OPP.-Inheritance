@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Workshop2.Backend/Workshop2.Backend.csproj" Id="ef68e10c-312c-4bd2-97ad-4775a1f1ea3a" />
+  <Project Path="WorkShop2.Frontend/WorkShop2.Frontend.csproj" Id="ebf606c0-1b1d-4b95-8074-18f71920b78c" />
+</Solution>
